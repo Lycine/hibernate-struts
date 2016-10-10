@@ -1,0 +1,3 @@
+# hibernate-struts   基于hibernate和struts2开发的学生管理系统案例
+hibernate+struts
+基于hibernate和struts2开发的学生管理系统案例
